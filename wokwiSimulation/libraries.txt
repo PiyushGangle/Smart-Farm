@@ -1,0 +1,4 @@
+DHTlib
+LiquidCrystal I2C
+Servo
+BasicLinearAlgebra
